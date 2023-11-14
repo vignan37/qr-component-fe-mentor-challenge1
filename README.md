@@ -1,3 +1,5 @@
+Checkout the live component [here](https://vignan37.github.io/qr-component-fe-mentor-challenge1/).
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
